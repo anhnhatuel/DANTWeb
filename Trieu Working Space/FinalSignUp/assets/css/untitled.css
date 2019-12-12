@@ -1,4 +1,4 @@
-a.bg-info:focus, a.bg-info:hover, button.bg-info:focus, button.bg-info:hover {
-  background-color: #2080c8!important;
+.text-info {
+  color: rgb(253,127,86)!important;
 }
 
