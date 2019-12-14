@@ -52,3 +52,11 @@
   box-shadow: 0 0 0 .2rem rgba(62,208,156,.5);
 }
 
+.text-primary {
+  color: rgb(255,128,90)!important;
+}
+
+.border-success {
+  border-color: #1cc88a!important;
+}
+
