@@ -280,10 +280,10 @@ button {
     padding-right: 0;
 }
 .product__menu button:hover {
-    color: #ff4136;
+    color: #ff7f50;
 }
 .product__menu button.is-checked {
-    color: #ff4136;
+    color: #ff7f50;
 }
 
 /*------------------------------
