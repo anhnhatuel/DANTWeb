@@ -1,0 +1,18 @@
+.faqHeader {
+  font-size: 27px;
+  margin: 0px;
+}
+
+.panel-heading [data-toggle="collapse"]:after {
+  font-family: 'FontAwesome';
+  content: "\f078";
+  float: right;
+  color: rgb(253,127,86);
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.panel-heading [data-toggle="collapse"].collapsed:after {
+  color: #454444;
+}
+
