@@ -72,19 +72,19 @@
   border-radius: 50%;
   box-shadow: 0 0 0 1px rgba(255,255,255,0.4);
   margin: 0 8px;
-  color: #fff;
+  color: #fff ;
   opacity: 0.75;
 }
 
 .footer-dark .item.social > a:hover {
-  opacity: 0.9;
+  opacity: 0.95;
 }
 
-.footer-dark .copyright {
+.footer-dark .copyright  {
   text-align: center;
-  padding-top: 24px;
+  padding-top: 24px  !important;
   opacity: 0.3;
-  font-size: 13px;
-  margin-bottom: 0;
+  font-size: 13px !important; 
+  margin-bottom: 0  !important;
 }
 
