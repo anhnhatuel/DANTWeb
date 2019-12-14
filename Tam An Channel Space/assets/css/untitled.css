@@ -1,0 +1,10 @@
+hr {
+  max-width: 50px;
+  border-width: 3px;
+  border-color: #ff7f50;
+}
+
+.bg-primary {
+  background-color: #ff7f50!important;
+}
+
