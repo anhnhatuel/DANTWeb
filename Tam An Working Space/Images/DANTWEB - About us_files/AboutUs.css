@@ -1,0 +1,63 @@
+﻿@font-face {
+    font-family: Avo;
+    src: url(Fonts/SVN-Avo.ttf);
+}
+
+@font-face {
+    font-family: HelveticaRegular;
+    src: url('Fonts/SVN-Helvetica Neue Regular.ttf');
+}
+
+@font-face {
+    font-family: HelveticaHeavy;
+    src: url('Fonts/SVN-Helvetica Neue Heavy.ttf');
+}
+
+@font-face {
+    font-family: HelveticaLight;
+    src: url('Fonts/SVN-Helvetica Neue Light.ttf');
+}
+p {
+    margin: 0.5em 0em;
+    
+    font-family: Avo;
+}
+.container1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 95vh;
+    width: 98.7vw;
+    padding-top: 3vh;
+    flex-direction: column;
+}
+    .container1 p {
+        padding-left: 20vw;
+        padding-right: 20vw;
+        font-size: 22px;
+    }
+.container2 {
+    display: flex;
+    text-align: center;
+    height: 95vh;
+    width: 98.7vw;
+    padding-top: 3vh;
+    flex-direction:row; 
+}
+    .container2 .Chu {
+        width: 50vw;
+        height: 90vw;
+        background: rgb(255,127,80);
+        background: linear-gradient(90deg, rgba(255,127,80,1) 0%, rgba(255,127,80,0.3701855742296919) 100%);
+        justify-content: center;
+        vertical-align: middle;
+        background-size: cover;
+        margin-left:10vw; 
+    }
+
+    }
+.container2 .Hinh img{
+    width:10%; 
+}
+body {
+}
